@@ -1,6 +1,6 @@
 # Daily Coding Problem
 
-A repository of coding problems done for fun
+A repository of coding problems done for fun. Thanks to dailycodingproblems.com
 
 ## Usage
 
